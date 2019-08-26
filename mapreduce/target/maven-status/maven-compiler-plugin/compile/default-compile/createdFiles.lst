@@ -1,0 +1,15 @@
+com\briup\step4_studentavg.class
+com\briup\Step2_deduplicate$dupReducer.class
+com\briup\step4_avg.class
+com\briup\Step1_count.class
+com\briup\Step2_deduplicate$dupMapper.class
+com\briup\Step3_sort$sortReducer.class
+com\briup\Step2_deduplicate.class
+com\briup\Step3_sort$sortMapper.class
+com\briup\Step1_count$CountReducer.class
+com\briup\step4_studentavg$studentavgReducer.class
+com\briup\Step3_sort.class
+com\briup\Step1_count$CountMapper.class
+com\briup\step4_avg$avgReducer.class
+com\briup\step4_avg$avgMapper.class
+com\briup\step4_studentavg$studentavgMapper.class
